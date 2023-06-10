@@ -16,8 +16,8 @@ export default function Ajuda() {
           </div>
           <div className="w-full bg-white h-0.5"/>
           <div className="px-10 inline-flex items-center justify-center w-full  h-full">
-            <Link href={"/samu"}  className="text-2xl text-center font-semibold text-white px-2">
-              Samu
+            <Link href={"/telefones"}  className="text-2xl text-center font-semibold text-white px-2">
+              Telefones de emergência
             </Link>
           </div>
           <div className="w-full bg-white h-0.5"/>

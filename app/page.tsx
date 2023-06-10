@@ -63,7 +63,7 @@ export default function Home() {
           <MdOutlineEditNote
               className="text-white text-2xl h-8 w-8"
             />
-            <Link href={"/auto-avaliacao"}  className="text-xl font-semibold text-white px-8 flex-wrap">
+            <Link href={"/avaliacao-introducao"}  className="text-xl font-semibold text-white px-8 flex-wrap">
               Avaliação 360
             </Link>
             <MdOutlineNavigateNext
